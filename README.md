@@ -1,6 +1,6 @@
 ## Sobre mim
 
-- 🤔 Desenvolvimento web com foco em front-end.
+- 💻 Desenvolvimento web com foco em front-end.
 - 🎓 Graduando em Ciência da computação.
 - 🌱 Atualmente aprendendo mais sobre ReactJS.
 
@@ -13,8 +13,8 @@
 
 **Ferramentas de desenvolvimento**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 ## Onde me encontrar
