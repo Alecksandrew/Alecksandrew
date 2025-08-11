@@ -2,7 +2,7 @@
 
 - 💻 Desenvolvimento web com foco em front-end.
 - 🎓 Graduando em Ciência da computação.
-- 🌱 Atualmente me aprofundando em TypeScript.
+- 🌱 Atualmente me aprofundando em backend com .NET.
 
 ## Minhas Skills
 
